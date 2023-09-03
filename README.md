@@ -1,5 +1,5 @@
 # CE_micro
-Azubi week 15 assignment: Microservice makeover
+Azubi week 15 assignment: Microservice makeover/Docker/ECS/Load Balancer.
 
 ## Problem Statement: 
 Create a simple microservices application using AWS containers. The application consists of two microservices: a front-end that displays inspirational quotes and a back-end that provides quote data.
@@ -7,7 +7,7 @@ Create a simple microservices application using AWS containers. The application 
 ## Guidelines/Goals:
 
 ### Containerize Microservices:
-Create a Docker container for the front-end and backend servers  using a basic HTML page.
+Create a Docker container for the front-end and back-end servers using a basic HTML page.
 
 ### Set Up ECS Cluster:
 - Create an Amazon ECS cluster to manage your microservices.
